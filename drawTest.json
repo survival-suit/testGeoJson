@@ -1,0 +1,27 @@
+[
+  {
+    "locomId": 1,
+    "locomNumber": 101,
+    "readerId": 201,
+    "wayId": 5127,
+    "wayNum": 46,
+    "detectionDateTime": "06.08.08 12:43",
+    "buckets": [
+      {
+        "bucketId": 1,
+        "bucketNum": 301,
+        "clean": true
+      },
+      {
+        "bucketId": 2,
+        "bucketNum": 302,
+        "clean": false
+      },
+      {
+        "bucketId": 3,
+        "bucketNum": 303,
+        "clean": false
+      }
+    ]
+  }
+]
